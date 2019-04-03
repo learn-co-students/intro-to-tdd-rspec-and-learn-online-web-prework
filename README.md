@@ -10,7 +10,7 @@
 
 ### What's a Test?
 
-Tests verify that the code you write behaves and produces the desired result. Many of the labs you will complete on Learn use tests. It can feel like an abstract concept at first, but it's worth starting to understand. Doing so will help you be more productive on Learn. Beyond that, understanding testing is important because **test-driven development**, or TDD, is considered the most reliable methodology for delivering quality code.
+Tests verify that the code you write behaves and produces the desired result. Many of the labs you will complete on Learn use tests. It can feel like an abstract concept at first, but it's worth starting to understand Doing so will help you be more productive on Learn. Beyond that, understanding testing is important because **test-driven development**, or TDD, is considered the most reliable methodology for delivering quality code.
 
 #### What is TDD?
 
