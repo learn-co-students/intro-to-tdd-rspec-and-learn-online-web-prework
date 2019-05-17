@@ -27,6 +27,7 @@ Once again, you won't be writing your own tests for a while, so we'll only touch
 
 Let's walk through an example together.
 
+
 ### Writing a Test
 
 #### Identifying the Desired Behavior
