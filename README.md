@@ -263,7 +263,8 @@ Let's fix this error by defining a method in `current_age_for_birth_year.rb` cal
 Add the following to the file, `current_age_for_birth_year.rb`:
 
 ```ruby
-def current_age_for_birth_year
+def current_age_for_birth_year(birth_year)(birth_year)
+  Time.now.year - birth_year
 end
 ```
 
