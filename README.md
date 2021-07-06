@@ -40,6 +40,7 @@ on this process briefly. Conceptually, TDD is simple:
 
 Let's walk through an example together.
 
+
 ### Writing a Test
 
 #### Identifying the Desired Behavior
